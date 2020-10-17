@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<houses>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHO THUÊ MỚI - CĂN HỘ MINI, CÓ KỆ BẾP VÀ WC RIÊNG, HẦM ĐỂ XE THOẢI MÁI, ĐƯỜNG SỐ 9 QUẬN 2. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHO THUÊ MỚI - CĂN HỘ MINI, CÓ KỆ BẾP VÀ WC RIÊNG NGAY VÒNG XOAY TRẦN NÃO QUẬN 2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê gấp nhà  4x7m, đúc lửng lầu, 5,5 triệu/tháng, LH: 0934135906</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng cao cấp mới xây 100% 137/72, Phan Anh, P Bình Trị Đông, Q Bình Tân, 2,5 triệu/tháng - 35 m2</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà Chính chủ  2 mặt tiền đường An Dương Vương cho thuê 18 triệu/tháng - 128 m2</title>
+        <price>18 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng đường Lê Đình Cẩn, Phường Tân Tạo, Quận Bình Tân, 1,7 triệu/tháng - 12 m2</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ chính chủ an ninh chợ Da Sà Bình Tân, 1,8 triệu/tháng - 12 m2, LH: 0901306922</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ cho thuê  tại Đường Tỉnh Lộ 10</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê căn hộ mini, đủ tiện nghi, DT 34m2 - Nguyễn Quý Yêm, giá: 4,5 triệu/tháng, LH 0852300879</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ gác bếp wc riêng, giờ tự do, 1,8 triệu/tháng, 16 m2, LH: 0961487787</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ cần cho thuê sạch sẽ thoáng mát giá rẻ (từ 1,1tr - 1,5tr/th), 1,1 triệu/tháng - 15 m2</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ ban công cần cho thuê, gần Aeon Mall Bình Tân, 2,8 triệu/tháng - 20 m2</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ đường Số 24A, Phường Bình Trị Đông B, Quận Bình Tân, 25m2, 2,5 triệu/tháng</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ đường Số 4, Quận Bình Tân, 2.5 triệu/tháng - 20 m2, LH: 0909727271</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ Quận Bình Tân 20m2, 3,5 triệu/tháng, LH: 0387676476</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cho thuê phòng trọ gần Aeon Mall TP có gác, wc riêng, 1,8 triệu/tháng - 20 m2, LH: 0903525195</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà nhỏ 1 trệt 1 lầu, Liên Khu 5-6, Phường Bình Hưng Hoà B, Quận Bình Tân, giá 1,8 tr/th, 15 m2</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ quận Bình Tân 10m2, gần đường Tên Lửa  cho thuê  1,2 triệu/tháng, LH: 0937799391</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho Thuê Căn Hộ 1-2-3-4 Phòng Ngủ Tại Vinhomes Central Park. Giá Tốt 10/2020. LH: 0908132054</title>
+        <price>12 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ full tiện nghi mới 100% trung tâm Quận 3.❤️❤️❤️</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà Trọ Sinh Viên Cao Cấp Giá Rẻ SLEEP BOX 6 GIƯỜNG/ PHÒNG tại Bình Thạnh</title>
+        <price>1.7 Tỷ</price>
+    </house>
+    <house>
+        <title>Phòng trọ cao cấp mới 100% full tiện nghi trung tâm Quận 3</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính Chủ Cho Thuê Nhà Mới Nguyên Căn Q10, DT 66m2, 1 Lầu</title>
+        <price>9 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà 1 trệt 2 lầu cho thuê  ngay mặt tiền 66 Đường Bùi Quang Là Phường 12 Gò Vấp</title>
+        <price>18 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Mặt tiền đường Lê Duy Nhuận cho thuê Phường 12 Q. Tân Bình</title>
+        <price>16 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà mặt tiền Xô Viết Nghệ Tĩnh  cho thuê </title>
+        <price>68 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê Phòng dich vụ full nội thất, có bếp và ban công gần Q1, giá 5 triệu</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ, phòng trọ tại đường Nguyễn Tất Thành, Phường 18, Quận 4, Hồ Chí Minh</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Còn 1 phòng cho thuê 15m2 còn mới có máy lạnh Tại Hẻm 290 Lý Thái Tổ P1 Q3 giá từ 3,3tr/th</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng trọ đầy đủ nội thất tại Tôn Thất Tùng Q1 giá chỉ từ 3,5tr/tháng</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho Thuê Phòng Cao Cấp, Full Nội Thất, Có Gác, Đinh Tiên Hoàng, P3, Bình Thạnh 5,5tr.</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng khép kín 3,5tr Hương lộ 3, Bình Hưng Hoà, Bình Tân</title>
+        <price>3.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ dịch vụ MỚI XÂY đường Hoàng Văn Thụ - Quận Phú Nhuận</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê mặt bằng KD 8x25m, trệt, 2 lầu đường D5</title>
+        <price>55 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà góc 2 mặt tiền cho thuê  đường  Sư Vạn Hạnh, Q10</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cho thuê phòng trọ đường Nguyễn Văn Thủ, Quận 1, diện tích 30 - 32m2, giá 8 triệu/tháng</title>
+        <price>8 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà đẹp cho thuê có gác HXH đường Nguyễn Thị Minh Khai, Quận 1</title>
+        <price>7 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ 18m2 đường Nguyễn Trãi, Quận 1, gần Bùi Viện, trung tâm Quận 1, giá 3,8 tr/tháng</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ đường Tân Hòa Đông Cần cho thuê, P Bình Trị Đông, Q Bình Tân, 1,3 triệu/tháng - 11 m2</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ chính chủ cho thuê 541/1, Hương lộ 2, P Bình Trị Đông, Q BT, 1,5tr/th - 17 m2</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ sạch đẹp 61/27, đường Liên Khu 1-6, P Bình Trị Đông, Q BT - an ninh, 1,5tr/th - 20m2</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ Hoàng Văn Hợp, Phường An Lạc A, Quận Bình Tân 16m2, 1,5 triệu/tháng</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng Cần cho thuê ở trong nhà mới xây</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ đường Tây Lân, P Bình Trị Đông A, Q Bình Tân DT 16m2, giá: 1,5 triệu/th, LH: 0972762206</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ mặt tiền sạch mới, 2,2 triệu/tháng - 20 m2, LH: 0937526339</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho nữ thuê Phòng mới sơn mới giá: 1 triệu/tháng </title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cần nữ ở ghép đường Hương Lộ 2 - Bình Tân, 950.000 đ/tháng - 20 m2</title>
+        <price>Thoả thuận</price>
+    </house>
+    <house>
+        <title>Nhà mới xây, cho thuê phòng hoặc nguyên tầng lầu, 1 triệu/tháng - DT 20 m2, LH: 0769910961</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê giường tầng ký túc xá sinh viên (đối diện ĐH Bách Khoa), full nội thất, giá rẻ</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ Tân Kỳ Tân Quý, Bình Tân có gác, wc, kệ bếp, 2 triệu/tháng - 18 m2, LH: 0943768708</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ, 213/18, đường Lê Đình Cẩn, Phường Tân Tạo, Quận Bình Tân, 1,9 triệu/tháng - 25 m2</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng giá rẻ 3,5 triệu/th số 58/1C Phan Văn Trị, P12, Bình Thạnh</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ cao cấp ngay sau ĐH Nguyễn Tất Thành, 25 - 35m2, đường Vườn Lài, Q. 12, 0967813059</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà nguyên căn phố SIMCITY cho thuê  12 Tr/th</title>
+        <price>12 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà Chính chủ 3 tầng cho thuê  mới xây  tại cầu Số 3 đường Mễ Cốc, P15, Q8, giá 7,5tr/tháng</title>
+        <price>8 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cho thuê phòng cao cấp full nội thất, bao điện nước wifi giá 3.5 triệu/th</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Homestay in 3D KTX tưng bừng khai trương chi nhánh</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng full nội thất HXH có thang máy mới xây gần cầu Lê Văn Sỹ, Q3. Giá 5tr/th</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng mới, giá tốt, full nội thất P. Hiệp Bình Phước, Thủ Đức</title>
+        <price>7 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trong CHDV P. 4, Q. Tân Bình, từ 20m2, full nội thất, gần Vincom Cộng Hòa ngã ba Út Tịch</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ mini 20m2, full nội thất gần Lăng Cha Cả, CV Hoàng Văn Thụ, sân bay. LH 0911914258</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà mặt tiền cho thuê đường Lý Thái Tổ, P10, Quận 10</title>
+        <price>40 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ trung tâm quận 10</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng chung cư Era Town Q7 từ 2tr - 4tr (Thành Lợi - 0822.066.719)</title>
+        <price>Thoả thuận</price>
+    </house>
+    <house>
+        <title>Chỉ còn 2 phòng máy lạnh cho thuê 3tr2 - 3tr8/th. Liên hệ chính chủ: 0868427739 anh Minh</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng trọ có nội thất nhà đường xe tại số 320/22/4 Nguyễn văn linh , P. bình thuận , Q7 </title>
+        <price>3.2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà An Phú An Khánh :DT 4m x20m. Nhà 1 trệt, 2 lầu + sân thượng, 4PN. Nội thất cơ bản.Giá: 23 triệu/tháng</title>
+        <price>23 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng nội thất cao cấp ngay trung tâm Quận 1</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>PHÒNG CHO THUÊ Q TÂN PHÚ 20 m2, giá 2 triệu – 2.5 triệu.</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ dịch vụ full nội thất giá 6.2 tr đến 6.6tr/th P. Phú Thạnh, Q. Tân Phú</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Bằng đẹp 270m2 đường Cây Trâm - Giá tốt tiện kinh doanh</title>
+        <price>25 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà mặt tiền 3 lầu đường Phạm Văn Đồng cho thuê</title>
+        <price>26 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Mặt tiền kinh doanh cho thuê  đường Phạm Văn Chiêu - vị trí đẹp</title>
+        <price>27 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ 20m2 giá 3,4tr/th tại số 69/1/26 đường D2, P. 25, Q. Bình Thạnh sau ĐH Hutech</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng full nội thất, mới, đẹp, giá rẻ tại P. 13, Q. Bình Thạnh</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cho thuê mặt bằng, phòng học, phòng trọ mini cao cấp giá rẻ Q12 chỉ từ 1,9tr/th - giảm giá</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng full nội thất, giá hấp dẫn nhất Âu Dương Lân, Quận 8</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ, phòng trọ tại dự án The Era Town, Quận 7, DT 10m2</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng đẹp KDC Phú Mỹ, Q7, full nội thất, giá tốt</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ sạch sẽ, an ninh WC riêng 684/36 Trần Hưng Đạo, P2, Q. 5</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ, phòng trọ tại đường Đoàn Văn Bơ, Phường 14, Quận 4, Hồ Chí Minh giá 3.3tr/th</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà lớn 4 lầu thang máy mặt tiền sầm uất đường Hoàng Văn Thụ, P. 15</title>
+        <price>130 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Mặt tiền cho thuê 47 Bis Tú Xương, phường 7, quận 3, ngay Trương Định</title>
+        <price>30 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà 1 trệt 2 lầu cho thuê  , góc mặt tiền lớn. Hẻm hông 6m</title>
+        <price>25 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà  5 lầu giá rẻ đường Phan Xích Long </title>
+        <price>140 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng chuẩn khách sạn đầy đủ nội thất nhà mặt tiền 325 Lê Trọng Tấn, P Sơn Kỳ, Tân Phú</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho nữ thuê phòng Lê Văn Sỹ, P2, Tân Bình gần CV HVT, giáp PN, Q3</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng khép kín 36m2,đối diện đại học Thương Mại</title>
+        <price>25 Ngàn/tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê CH khang gia-gò vấp 73m2 Đ. phan huy ích-P14- Q.Gò vấp- giá: 6 triệu/tháng</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà nguyên căn 3 lầu Tôn Thất Thuyết quận 4, chính chủ nhà mới 100%</title>
+        <price>25 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CĂN HỘ - Phòng trọ rất đẹp, rất rộng 50m2, Máy Lạnh, Ban Công, Tủ Bếp...gần chợ Tân Hương</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cần cho thuê phòng 35m2 gần chợ Bà Chiểu - Phòng có máy lạnh, bancol riêng, WC riêng bên ngoài,Chỗ nấu Ăn.</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHO THUÊ PHÒNG XINH ĐẦY ĐỦ TIỆN NGHI VÒNG XOAY TRẦN NÃO Q2. LH:0934027721</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Tìm 01 nam ở ghép giá 1tr3&gt;&gt;&gt; mình đang thuê 4tr/tháng đi làm cả ngày nên tìm 1 bạn nam ở cùng</title>
+        <price>1.3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ gần mặt tiền Tỉnh Lộ 10, Quận BT, 2,3 triệu/tháng - 28 m2, LH: 0932718350</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cần cho thuê phòng 24m2 đầy đủ tiện nghi, nội thất, 3 triệu/tháng, LH: 0936703067</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ gần BV Quận Bình Tân giờ giấc tự do, 1,8 triệu/tháng, 15 m2, LH: 0937651155</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cần cho thuê phòng Tân Kỳ Tân Quý, có gác, cửa sổ, ưu đãi T7, 1,7 tr/th - 16 m2, LH: 0916904568</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà trọ đường Số 12, khu Tân Kỳ Tân Quý gần Aeon, 1,8 triệu/tháng - 12 m2, LH: 0983870818</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ đường An Dương Vương, Phường An Lạc, Quận Bình Tân, 15m2, 2 triệu/th, LH: 0938030280</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng mới xây cho thuê đường Số 12, Phường Bình Hưng Hòa, Quận Bình Tân 25m2, 2 triệu/tháng</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ khu vực số 81/16/5 đường 26/3, 2 triệu/tháng - 16 m2</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ quá xá giá rẻ Bình Tân - Tên Lửa. 3 triệu/tháng - 25 m2, LH: 0932722303</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng tại đường Trần Văn Đang, P9, quận 3, TP HCM.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng cho nữ thuê, đủ tiện nghi, bao điện nước, wifi</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 40m2, đường Lê Đức Thọ, P.13, Q.Gò Vấp</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trong CH mini Lucky Dragon cạnh CĐ Điện Lực, giá từ 1,4 tr/th - 2 tr/th</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Còn 1 phòng trọ máy lạnh cho thuê hòa hưng quận 10 - Phòng Cửa sổ rộng ánh sáng mặt trời, gió mát</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHO THUÊ CĂN HỘ MINI FULL NỘI THẤT KHU TRẦN NÃO Q2. LH:0934027721</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ Q.10 cho thuê</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính Chủ Cho Thuê Nhà Mới Nguyên Căn Q10 Giá Ré</title>
+        <price>9 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng rộng rãi cho thuê tại Đinh Bộ Lĩnh gần trường Hutech</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ đầy đủ nội thất, có ban công, số 8 đường 34B An Phú, giá 6 triệu/tháng</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng gần công viên đường Cao Đức Lân - Đủ nội thất - 5 triệu</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Ở ghép trọn gói chỉ 1,2tr/tháng phòng chỉ 4 người ở, full nội thất gần 3/2 - Lý Thường Kiệt</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cho thuê phòng trọ cao cấp dành cho sinh viên (gần ĐH Ngân Hàng, ĐH Sư Phạm Kỹ Thuật)</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ cao cấp 32m2 full nội thất Trần Thủ Độ, Q. Tân Phú</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng trọ giá rẻ, phường Cầu Ông Lãnh, Q. 1</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho Thuê 7 Phòng Trọ Giá Rẻ, Thoại Ngọc Hầu, Phường Hòa Thạnh, Quận Tân Phú, TPHCM.</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê căn hộ mini giường thông minh - giờ giấc tự do - khóa từ vân tay an ninh</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê 2 phòng trọ khép kín mới, có gác, giá cực tốt ở Quận 2</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng có ban công rộng 50m2, free phí giữ xe, rác</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>SALE MÙA DỊCH!!! Phòng cao cấp, đầy đủ tiện nghi đường Nguyễn Thị Minh Khai,Phường Đa Kao. Quận 1</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ mini chung cư mini tại đường Số 6, P15, Gò vấp</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê 1 phòng duy nhất Full nội thất tại 258/82 Trần Hưng Đạo P Nguyễn Cư Trinh Q1</title>
+        <price>6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ đường Xóm Chiếu, quận 4, có sân để xe, giá tốt</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ nhà đúc đẹp, mới Phường 8, Gò Vấp, diện tích 24m2 giá 2.2 triệu/th</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê căn hộ chung cư Hoàng Anh Gold House (Nhà Bè) diện tích 225,7m2 giá 12,7 triệu/tháng</title>
+        <price>13 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà trọ trung tâm quận 1 giá bình dân</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng đầy đủ nội thất Tại Nguyễn Trãi và Cống Quỳnh P Nguyễn Cư Trinh Q1 giá 3tr/th</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà trọ quận 5 mới xây có WC riêng, gần cầu Nguyễn Tri Phương</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ Quận 5 gần cầu Nguyễn Tri Phương</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng Full nội thất gần cầu Bình Lợi Phạm Văn Đồng Q Bình Thạnh giá 4,8tr/th</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Eco Home - Ký Túc Xá NỮ may lạnh cao cấp đường Tô Ký, bao điện nước, giá chỉ từ 900k</title>
+        <price>9</price>
+    </house>
+    <house>
+        <title>Cho thuê căn hộ chung cư Hoàng Anh Thanh Bình (Quận 7) diện tích 82,89m2 giá 9.2 triệu/tháng</title>
+        <price>9 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cho thuê nhà trọ 25m2 P7 Phú Nhuận, giờ giấc tự do. Bảo vệ 24/24</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng 20m2 đường Lý Thánh Tông, Phường Tân Thới Hòa, Quận Tân Phú, giá 1,8 triệu/tháng</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng Tân Sơn, Phường 12, Quận Gò Vấp Vấp 25m2, 3,4tr/th, LH: 0814479979</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ cao cấp đường Số 1, P. 16, Gò Vấp, 2,7 triệu/tháng - 20 m2, LH: 0903428414</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ đường 59 - Có máy lạnh, ban công 25m2, 2,5 triệu/tháng, LH: 0979492504</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ tiện nghi 209/1 đường Cây Trâm, Gò Vấp, 2,2 triệu/tháng, 18 m2, LH: 0766998992</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ Quận Gò Vấp, cho thuê dài hạn, 3 triệu/tháng - 18 m2, LH: 0938500025</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ giá rẻ Quang Trung, Gò Vấp, 2,9 triệu/tháng - 20 m2, LH: 0332119954</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng ở ghép Trần Bá Giao, P 5, Quận Gò Vấp, 31m2, đủ tiện nghi, 900.000 đ/th, LH: 0834777963</title>
+        <price>Thoả thuận</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng dạng KTX cao cấp Gò Vấp, 1,5 triệu/tháng - 25 m2, LH: 0942556503</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà mới xây 24 phòng gác lửng ngay Dương Quảng Hàm, 3,8 triệu/tháng - 17 m2, LH: 0902483883</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng có ban công thoáng mát giá rẻ, 2,2 triệu/tháng - 20 m2, LH: 0906960869</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ 43 đường Số 6, P15, GV, trệt, mới xây, 2,3 triệu/tháng - 20 m2, LH: 0936960848</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng đường Số 9, P16, QV, ưu tiên ở lâu dài, 1,2 triệu/tháng - 14 m2, LH: 0932874017</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng trọ giá rẻ tại Phạm Huy Thông, Gò Vấp, 2,3 tr/th - 20 m2, LH 0985553298</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cần cho thuê nhà trọ đẹp Phan Huy Ích, Gò Vấp, 4 triệu/tháng - 28 m2, LH: 0979412320</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cần cho thuê phòng trọ có thang máy, đường Trần Tấn, Tân Phú, DT 18m2 - 40m2, giá từ 2,1 - 3 tr/th</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ mới xây tại 6/9 Phạm Quý Thích, P. Tân Quý, Tân Phú, có máy lạnh, giờ tự do</title>
+        <price>Thoả thuận</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ 25m2 tại số 72 Phan Đình Phùng, Phường Tân Thành, Tân Phú, 3,2 triệu/tháng</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 72/1 đường Tây Thạnh, Tân Phú, DT 4,6x5m, giá 3,2 triệu/tháng</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+Aloha<houses>
+    <house>
+        <title>Cho thuê căn hộ chung cư tại Dự án Mizuki Park, Bình Chánh, Hồ Chí Minh diện tích 56m2 giá 6.5 Tr</title>
+        <price>7 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng trọ hẻm thông Xô Viết Nghệ Tĩnh và D5 Q Bình Thạnh giá 3tr/th</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng cao cấp đầy đủ tiện nghi, tầng trệt để xe, cap, net free; 22m2: Từ 3.5tr/th. A Minh 091986333</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng 25m2 full nội thất, có cửa sổ lớn, bếp WC trong phòng tại B4 khu B Làng ĐH, ra Lotte Q7 - 3km</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ, phòng trọ tại dự án The Era Town, Quận 7, Hồ Chí Minh. Diện tích 10m2, 1.8 tr/th</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhiều căn hộ Lexington, 1 - 2 - 3PN, giá rẻ không ngờ chỉ 8.5 triệu/tháng (đủ nội thất)</title>
+        <price>9 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ đẹp gần Nguyễn Tất Thành quận 12, đầy đủ tiện nghi, giao thông thuận tiện, giá hấp dẫn</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trong chung cư 312 Lạc Long Quân, DT 75m2, 2PN</title>
+        <price>1 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng dạng căn hộ dịch vụ Q.11, nhà mới xây, có thang máy</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê căn hộ đầy đủ nội thất đẹp tại Quận 11</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ 12m2, Lạc Long Quân, Q11</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ dạng căn hộ mini Full nội thất ngay trung tâm Q4</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ sinh viên nhà HXH tại 122/2 Trần Đình Xu P Nguyễn Cư Trinh Q1</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Ra đi nhanh căn nhà 100m2 trong mùa dịch</title>
+        <price>800 Triệu/m2/tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng trọ cao cấp, giá tốt ở 179/39/23 đường  Hòa Bình, Tân Phú</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Nhà trọ đường Nguyễn Xí có WC riêng</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng đẹp, giá tốt ở 27/6 đường Âu Dương Lân, P3, Q8</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng 25m2 mới sạch sẽ thoáng tại 4/4 Trần Khắc Chân, P. Tân Định, Q. 1. Giá 4.3 tr/th</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê phòng full nội thất cao cấp chuẩn khách sạn tại hẻm 333 Trần Bình Trọng, P4, Q5</title>
+        <price>5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Chính chủ cho thuê phòng đẹp có máy lạnh gần cầu Kênh Tẻ Q4, cách mặt tiền chính 10m</title>
+        <price>4 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Cho thuê nhà trọ 4x4.5 1 gác suốt, toilet trong phòng.</title>
+        <price>3 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Phòng trọ giá rẻ khu VIP Tân Sơn Nhì-Gò Dầu, quận Tân Phú 30m2 giá 2,6 triệu/tháng</title>
+        <price>2.6 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>Căn hộ chung cư mini tại đường Phan Huy Ích, P14, Gò Vấp</title>
+        <price>2 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 40M2, FULL NỘI THẤT, GẦN VÒNG XOAY TRẦN NÃO GIÁ TỐT CÒN THƯƠNG LƯỢNG. LH:0934027721</title>
+        <price>5.5 Triệu/Tháng</price>
+    </house>
+    <house>
+        <title>CHÍNH CHỦ CHO THUÊ PHÒNG 30M2, FULL NỘI THẤT, GIÁ TỐT CÒN THƯƠNG LƯỢNG NGAY CẦU SÀI GÒN Q2. LH:0934027721</title>
+        <price>5.3 Triệu/Tháng</price>
+    </house>
+</houses>
+
+

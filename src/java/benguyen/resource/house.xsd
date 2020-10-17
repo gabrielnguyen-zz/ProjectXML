@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           targetNamespace="http://ohana.vn"
+           xmlns="http://ohana.vn"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <xs:element name="houses" type="listHouse"/>
+    <xs:complexType name="listHouse">
+        <xs:sequence>
+            <xs:element name="house" type="houseItem" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="houseItem">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="detail" type="xs:string"/>
+            <xs:element name="price" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:positiveInteger"/>
+        <xs:attribute name="category" type="xs:string" use="required"/>
+    </xs:complexType>
+</xs:schema>
