@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <xs:element name="houses" type="Houses"/>
+    <xs:complexType name="Houses">
+        <xs:sequence>
+            <xs:element name="house" type="houseList" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="houseList">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"></xs:element>
+            <xs:element name="address" type="xs:string"></xs:element>
+            <xs:element name="image" type="xs:string"></xs:element>
+            <xs:element name="space" type="xs:string"></xs:element>
+            <xs:element name="price" type="xs:string"></xs:element>
+            <xs:element name="benefits" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="houselink" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+</xs:schema>

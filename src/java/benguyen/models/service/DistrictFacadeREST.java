@@ -28,7 +28,7 @@ import javax.ws.rs.core.MediaType;
 @Path("benguyen.models.district")
 public class DistrictFacadeREST extends AbstractFacade<District> {
 
-    @PersistenceContext(unitName = "ProjectXMLPU")
+    @PersistenceContext(unitName = "HouseRentingAnalysisPU")
     private EntityManager em;
 
     public DistrictFacadeREST() {

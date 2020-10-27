@@ -28,7 +28,7 @@ import javax.ws.rs.core.MediaType;
 @Path("benguyen.models.houseimage")
 public class HouseImageFacadeREST extends AbstractFacade<HouseImage> {
 
-    @PersistenceContext(unitName = "ProjectXMLPU")
+    @PersistenceContext(unitName = "HouseRentingAnalysisPU")
     private EntityManager em;
 
     public HouseImageFacadeREST() {

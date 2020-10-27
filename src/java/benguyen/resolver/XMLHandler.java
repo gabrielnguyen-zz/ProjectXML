@@ -57,6 +57,7 @@ public class XMLHandler implements Serializable{
                 Validator validator = getSchema(schemaPath).newValidator();
                 validator.validate(new SAXSource(new InputSource(new StringReader(str))));
             }
+            
             return (T) un.unmarshal(new ByteArrayInputStream(str.getBytes(StandardCharsets.UTF_8)));
         } catch(Exception e){
             e.printStackTrace();

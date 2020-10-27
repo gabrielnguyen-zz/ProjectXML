@@ -24,7 +24,7 @@ import javax.xml.namespace.QName;
 @XmlRegistry
 public class ObjectFactory {
 
-    private final static QName _Spaces_QNAME = new QName("", "spaces");
+    private final static QName _Benefits_QNAME = new QName("", "benefits");
 
     /**
      * Create a new ObjectFactory that can be used to create new instances of schema derived classes for package: benguyen.generated
@@ -34,20 +34,20 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link Spaces }
+     * Create an instance of {@link Benefits }
      * 
      */
-    public Spaces createSpaces() {
-        return new Spaces();
+    public Benefits createBenefits() {
+        return new Benefits();
     }
 
     /**
-     * Create an instance of {@link JAXBElement }{@code <}{@link Spaces }{@code >}}
+     * Create an instance of {@link JAXBElement }{@code <}{@link Benefits }{@code >}}
      * 
      */
-    @XmlElementDecl(namespace = "", name = "spaces")
-    public JAXBElement<Spaces> createSpaces(Spaces value) {
-        return new JAXBElement<Spaces>(_Spaces_QNAME, Spaces.class, null, value);
+    @XmlElementDecl(namespace = "", name = "benefits")
+    public JAXBElement<Benefits> createBenefits(Benefits value) {
+        return new JAXBElement<Benefits>(_Benefits_QNAME, Benefits.class, null, value);
     }
 
 }

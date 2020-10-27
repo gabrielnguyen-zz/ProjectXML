@@ -28,7 +28,7 @@ import javax.ws.rs.core.MediaType;
 @Path("benguyen.models.benefits")
 public class BenefitsFacadeREST extends AbstractFacade<Benefits> {
 
-    @PersistenceContext(unitName = "ProjectXMLPU")
+    @PersistenceContext(unitName = "HouseRentingAnalysisPU")
     private EntityManager em;
 
     public BenefitsFacadeREST() {

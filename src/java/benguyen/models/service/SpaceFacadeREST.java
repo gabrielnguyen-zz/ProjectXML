@@ -28,7 +28,7 @@ import javax.ws.rs.core.MediaType;
 @Path("benguyen.models.space")
 public class SpaceFacadeREST extends AbstractFacade<Space> {
 
-    @PersistenceContext(unitName = "ProjectXMLPU")
+    @PersistenceContext(unitName = "HouseRentingAnalysisPU")
     private EntityManager em;
 
     public SpaceFacadeREST() {
@@ -87,5 +87,16 @@ public class SpaceFacadeREST extends AbstractFacade<Space> {
     protected EntityManager getEntityManager() {
         return em;
     }
-    
+    @POST
+    @Path("insert")
+    @Consumes(MediaType.APPLICATION_XML)
+    public Space insert(Space space) {
+        try {
+            super.create(space);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        
+        return space;
+    }
 }

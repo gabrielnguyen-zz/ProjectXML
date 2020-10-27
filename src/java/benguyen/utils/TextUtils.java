@@ -28,6 +28,13 @@ public class TextUtils {
         src = getBody(src);
         return src;
     }
+    
+    public static String refineHTMLwithoutCropBody(String src){
+        src = removeMiscellaneousTags(src);
+        SyntaxStateChecker checker = new SyntaxStateChecker();
+        src = checker.check(src);
+        return src;
+    }
 
     // cắt và trả phần body từ HTML sd Regex
     private static String getBody(String src) {

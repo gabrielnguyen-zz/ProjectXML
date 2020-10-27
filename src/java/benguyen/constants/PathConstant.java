@@ -17,6 +17,8 @@ public class PathConstant {
     public static final String GENERATED_PACKAGE_NAME = "benguyen.generated";
 
     public static final List<String> CONFIG_SCHEMAS_FOR_GENERATE = Arrays.asList(
-            "src/java/benguyen/resource/xsd/space.xsd"
+//            "src/java/benguyen/resource/xsd/alonhatrohouse.xsd",
+//            "src/java/benguyen/resource/xsd/space.xsd"
+            "src/java/benguyen/resource/xsd/benefit.xsd"
     );
 }

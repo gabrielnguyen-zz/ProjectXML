@@ -5,7 +5,7 @@
  */
 package benguyen.crawl;
 
-import benguyen.client.NewClient;
+import benguyen.clients.NewJerseyClient;
 import benguyen.constants.DomainConstant;
 import static benguyen.crawl.CrawHelper.getContent;
 import benguyen.generated.Spaces;
@@ -13,10 +13,11 @@ import benguyen.models.Space;
 import benguyen.resolver.StyleSheetApplier;
 import benguyen.resolver.XMLHandler;
 import benguyen.utils.TextUtils;
+import static java.lang.System.out;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.net.ssl.TrustManager;
+import javax.ws.rs.core.Response;
 import javax.xml.transform.TransformerException;
 
 /**
@@ -27,32 +28,34 @@ public class SpaceCrawling {
 
     private StyleSheetApplier applier = new StyleSheetApplier();
     private XMLHandler handler = new XMLHandler();
-    
+
     private String xsltFile = "src/java/benguyen/resource/xsl/space.xsl";
     private String xsdFile = "src/java/benguyen/resource/xsd/space.xsd";
-    
+
     public void crawlSpace() {
-        String content = getContent(DomainConstant.ALONHATRO+1);
+        String content = getContent(DomainConstant.ALONHATRO + 1);
         Spaces spaces = new Spaces();
-        NewClient client = new NewClient();
+        NewJerseyClient client = new NewJerseyClient();
         if (content != null) {
             String wellformed = TextUtils.refineHTML(content);
-            
+
             try {
                 String xml = applier.applyStyleSheet(xsltFile, wellformed);
                 System.out.println(xml);
-                if(xml!=null){
+                if (xml != null) {
+                    System.out.println(XMLHandler.unmarshall(xml, xsdFile, Spaces.class).toString());
                     spaces = XMLHandler.unmarshall(xml, xsdFile, Spaces.class);
                     System.out.println(spaces.getSpace());
                     List<String> listSpaces = spaces.getSpace();
-                    //insert db
-                    for (int i = 0; i < listSpaces.size(); i++) {
-                        Space space = new Space();
-                        System.out.println(listSpaces.get(i));
-                        space.setSpace(listSpaces.get(i));
-                        client.create_XML(space);
-                        System.out.println("Insert " + space.getSpace().toString() + " to dtb" );
-                    }
+//                    //insert db
+//                    for (int i = 0; i < listSpaces.size(); i++) {
+//                        Space space = new Space();
+//                        space.setId(0);
+//                        space.setSpace(listSpaces.get(i).toString());
+//                        client.createSpace_XML(space, Space.class);
+//
+//                        System.out.println("Insert " + space.getSpace().toString() + " to dtb");
+//                    }
                 }
             } catch (TransformerException ex) {
                 Logger.getLogger(SpaceCrawling.class.getName()).log(Level.SEVERE, null, ex);

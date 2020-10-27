@@ -6,6 +6,7 @@
 package benguyen.test;
 
 import benguyen.crawl.AloNhaTroHousesCrawling;
+import benguyen.crawl.NhaTroTotHousesCrawling;
 import benguyen.crawl.SpaceCrawling;
 import benguyen.utils.TextUtils;
 import java.io.BufferedReader;
@@ -40,9 +41,11 @@ public class TestChecker {
 
     public static void main(String[] args) throws IOException {
 //        AloNhaTroHousesCrawling test = new AloNhaTroHousesCrawling();
-//        test.crawlAloNhaTroHousesLink();
-          SpaceCrawling test = new SpaceCrawling();
-          test.crawlSpace();
+//        test.crawlAloNhaTroHouses();
+//          SpaceCrawling test = new SpaceCrawling();
+//          test.crawlSpace();
+        NhaTroTotHousesCrawling test = new NhaTroTotHousesCrawling();
+        test.crawlNhaTroTotHouses();
     }
 
     public static void testWellformed(String urlString) throws MalformedURLException, IOException {
