@@ -9,6 +9,7 @@ import java.io.Serializable;
 import java.util.Collection;
 import java.util.Date;
 import javax.persistence.Basic;
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -43,6 +44,13 @@ import javax.xml.bind.annotation.XmlTransient;
     , @NamedQuery(name = "House.findByTime", query = "SELECT h FROM House h WHERE h.time = :time")})
 public class House implements Serializable {
 
+    @Size(max = 50)
+    @Column(name = "time")
+    private String time;
+
+    @OneToMany(cascade = CascadeType.ALL, mappedBy = "houseId")
+    private Collection<BenefitsOfHouse> benefitsOfHouseCollection;
+
     private static final long serialVersionUID = 1L;
     @Id
     @Basic(optional = false)
@@ -56,9 +64,6 @@ public class House implements Serializable {
     @Size(max = 50)
     @Column(name = "price")
     private String price;
-    @Column(name = "time")
-    @Temporal(TemporalType.TIMESTAMP)
-    private Date time;
     @ManyToMany(mappedBy = "houseCollection")
     private Collection<Benefits> benefitsCollection;
     @OneToMany(mappedBy = "houseId")
@@ -101,13 +106,6 @@ public class House implements Serializable {
         this.price = price;
     }
 
-    public Date getTime() {
-        return time;
-    }
-
-    public void setTime(Date time) {
-        this.time = time;
-    }
 
     @XmlTransient
     public Collection<Benefits> getBenefitsCollection() {
@@ -166,6 +164,23 @@ public class House implements Serializable {
     @Override
     public String toString() {
         return "benguyen.models.House[ id=" + id + " ]";
+    }
+
+    @XmlTransient
+    public Collection<BenefitsOfHouse> getBenefitsOfHouseCollection() {
+        return benefitsOfHouseCollection;
+    }
+
+    public void setBenefitsOfHouseCollection(Collection<BenefitsOfHouse> benefitsOfHouseCollection) {
+        this.benefitsOfHouseCollection = benefitsOfHouseCollection;
+    }
+
+    public String getTime() {
+        return time;
+    }
+
+    public void setTime(String time) {
+        this.time = time;
     }
     
 }

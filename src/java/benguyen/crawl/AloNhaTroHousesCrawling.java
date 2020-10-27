@@ -32,7 +32,7 @@ public class AloNhaTroHousesCrawling {
     private String xsdBenefitFile = "src/java/benguyen/resource/xsd/benefit.xsd";
     private String xslBenefitFile = "src/java/benguyen/resource/xsl/alonhatrohousebenefits.xsl";
 
-    public List<String> crawlAloNhaTroHouses() {
+    public Houses crawlAloNhaTroHouses() {
         StringBuilder stringBuilder = new StringBuilder();
         List<String> listLinks = new ArrayList<>();
         Houses houses = new Houses();
@@ -41,7 +41,7 @@ public class AloNhaTroHousesCrawling {
             urlLinks.add(DomainConstant.ALONHATRO + j);
         }
         for (String urlLink : urlLinks) {
-            System.out.println(urlLink);
+            
             String content = getContent(urlLink);
             if (content != null) {
                 String wellformed = TextUtils.refineHTML(content);
@@ -64,15 +64,10 @@ public class AloNhaTroHousesCrawling {
         }
 
         houses = crawlAloNhaTroHouseBenefitsAndMap(listLinks, houses);
-        for (int i = 0; i < houses.getHouse().size(); i++) {
-            System.out.println(houses.getHouse().get(i).getName() + " có " + houses.getHouse().get(i).getBenefits().size());
-        }
-        return listLinks;
+        return houses;
     }
 
     public Houses crawlAloNhaTroHouseBenefitsAndMap(List<String> listLinks, Houses houses) {
-        System.out.println("size : " + listLinks.size());
-
         for (int i = 0; i < listLinks.size(); i++) {
             Benefits benefits = new Benefits();
             String content = getContent(listLinks.get(i));

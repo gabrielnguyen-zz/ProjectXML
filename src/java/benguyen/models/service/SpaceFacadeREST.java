@@ -87,16 +87,5 @@ public class SpaceFacadeREST extends AbstractFacade<Space> {
     protected EntityManager getEntityManager() {
         return em;
     }
-    @POST
-    @Path("insert")
-    @Consumes(MediaType.APPLICATION_XML)
-    public Space insert(Space space) {
-        try {
-            super.create(space);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        
-        return space;
-    }
+    
 }

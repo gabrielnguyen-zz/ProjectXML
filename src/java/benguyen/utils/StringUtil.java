@@ -12,12 +12,31 @@ import java.util.List;
  * @author Gabriel Nguyen
  */
 public class StringUtil {
-    public static boolean checkDomainStartWithString(List<String> listDomain, String domain){
-        for (String string : listDomain) {
-            if(domain.startsWith(domain)){
-                return true;
-            }
+
+    public String getSpace(String src) {
+        String temp = src;
+        if (src.contains("Diện")) {
+            temp = src.split(":")[1];
         }
-        return false;
+        return temp.substring(0, 2).trim();
+    }
+
+    public String getDistrict(String src) {
+        String temp = src;
+        if (temp != null) {
+            if (temp.contains("Hồ Chí Minh")) {
+                temp = src.split(",")[0];
+            }else
+                temp = src.split(",")[1];
+        }
+        return temp.trim();
+    }
+
+    public String getPrice(String src) {
+        String temp = src;
+        if (temp != null && temp.contains("Triệu") || temp.contains("triệu")) {
+            temp = src.split(" ")[0];
+        }
+        return temp.trim();
     }
 }

@@ -63,14 +63,10 @@ public class NhaTroTotHousesCrawling {
             }
         }
         houses = crawlNhaTroTotHouseBenefitsAndMap(listLinks, houses);
-        for (int i = 0; i < houses.getHouse().size(); i++) {
-            System.out.println(houses.getHouse().get(i).getName() + " có " + houses.getHouse().get(i).getBenefits().size());
-        }
         return houses;
     }
 
     public Houses crawlNhaTroTotHouseBenefitsAndMap(List<String> listLinks, Houses houses) {
-        System.out.println("size : " + listLinks.size());
         for (int i = 0; i < listLinks.size(); i++) {
             Benefits benefits = new Benefits();
             String content = getContent(listLinks.get(i));

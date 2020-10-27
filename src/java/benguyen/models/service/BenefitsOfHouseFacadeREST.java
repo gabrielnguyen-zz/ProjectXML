@@ -5,13 +5,11 @@
  */
 package benguyen.models.service;
 
-import benguyen.models.House;
+import benguyen.models.BenefitsOfHouse;
 import java.util.List;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
-import javax.persistence.NoResultException;
 import javax.persistence.PersistenceContext;
-import javax.persistence.TypedQuery;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.DELETE;
 import javax.ws.rs.GET;
@@ -20,7 +18,6 @@ import javax.ws.rs.PUT;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
-import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 
 /**
@@ -28,27 +25,27 @@ import javax.ws.rs.core.MediaType;
  * @author Gabriel Nguyen
  */
 @Stateless
-@Path("benguyen.models.house")
-public class HouseFacadeREST extends AbstractFacade<House> {
+@Path("benguyen.clients.benefitsofhouse")
+public class BenefitsOfHouseFacadeREST extends AbstractFacade<BenefitsOfHouse> {
 
     @PersistenceContext(unitName = "HouseRentingAnalysisPU")
     private EntityManager em;
 
-    public HouseFacadeREST() {
-        super(House.class);
+    public BenefitsOfHouseFacadeREST() {
+        super(BenefitsOfHouse.class);
     }
 
     @POST
     @Override
     @Consumes({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-    public void create(House entity) {
+    public void create(BenefitsOfHouse entity) {
         super.create(entity);
     }
 
     @PUT
     @Path("{id}")
     @Consumes({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-    public void edit(@PathParam("id") Integer id, House entity) {
+    public void edit(@PathParam("id") Integer id, BenefitsOfHouse entity) {
         super.edit(entity);
     }
 
@@ -61,21 +58,21 @@ public class HouseFacadeREST extends AbstractFacade<House> {
     @GET
     @Path("{id}")
     @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-    public House find(@PathParam("id") Integer id) {
+    public BenefitsOfHouse find(@PathParam("id") Integer id) {
         return super.find(id);
     }
 
     @GET
     @Override
     @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-    public List<House> findAll() {
+    public List<BenefitsOfHouse> findAll() {
         return super.findAll();
     }
 
     @GET
     @Path("{from}/{to}")
     @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-    public List<House> findRange(@PathParam("from") Integer from, @PathParam("to") Integer to) {
+    public List<BenefitsOfHouse> findRange(@PathParam("from") Integer from, @PathParam("to") Integer to) {
         return super.findRange(new int[]{from, to});
     }
 
@@ -90,16 +87,5 @@ public class HouseFacadeREST extends AbstractFacade<House> {
     protected EntityManager getEntityManager() {
         return em;
     }
-    @GET
-    @Path("findByName")
-    @Produces(MediaType.APPLICATION_XML)
-    public House findByName(@QueryParam("name") String name) {
-        try {
-            TypedQuery query = em.createNamedQuery("House.findByName", House.class);
-            query.setParameter("name", name);
-            return (House) query.getSingleResult();
-        } catch (NoResultException e) {
-            return null;
-        }
-    }
+    
 }

@@ -5,7 +5,7 @@
  */
 package benguyen.crawl;
 
-import benguyen.clients.NewJerseyClient;
+import benguyen.clients.SpaceClient;
 import benguyen.constants.DomainConstant;
 import static benguyen.crawl.CrawHelper.getContent;
 import benguyen.generated.Spaces;
@@ -35,7 +35,7 @@ public class SpaceCrawling {
     public void crawlSpace() {
         String content = getContent(DomainConstant.ALONHATRO + 1);
         Spaces spaces = new Spaces();
-        NewJerseyClient client = new NewJerseyClient();
+        SpaceClient client = new SpaceClient();
         if (content != null) {
             String wellformed = TextUtils.refineHTML(content);
 

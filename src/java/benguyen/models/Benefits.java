@@ -8,6 +8,7 @@ package benguyen.models;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.Basic;
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -16,6 +17,7 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
@@ -34,6 +36,9 @@ import javax.xml.bind.annotation.XmlTransient;
     , @NamedQuery(name = "Benefits.findById", query = "SELECT b FROM Benefits b WHERE b.id = :id")
     , @NamedQuery(name = "Benefits.findByName", query = "SELECT b FROM Benefits b WHERE b.name = :name")})
 public class Benefits implements Serializable {
+
+    @OneToMany(cascade = CascadeType.ALL, mappedBy = "benefitId")
+    private Collection<BenefitsOfHouse> benefitsOfHouseCollection;
 
     private static final long serialVersionUID = 1L;
     @Id
@@ -112,6 +117,15 @@ public class Benefits implements Serializable {
     @Override
     public String toString() {
         return "benguyen.models.Benefits[ id=" + id + " ]";
+    }
+
+    @XmlTransient
+    public Collection<BenefitsOfHouse> getBenefitsOfHouseCollection() {
+        return benefitsOfHouseCollection;
+    }
+
+    public void setBenefitsOfHouseCollection(Collection<BenefitsOfHouse> benefitsOfHouseCollection) {
+        this.benefitsOfHouseCollection = benefitsOfHouseCollection;
     }
     
 }

@@ -30,6 +30,7 @@ public class ApplicationConfig extends Application {
      */
     private void addRestResourceClasses(Set<Class<?>> resources) {
         resources.add(benguyen.models.service.BenefitsFacadeREST.class);
+        resources.add(benguyen.models.service.BenefitsOfHouseFacadeREST.class);
         resources.add(benguyen.models.service.DistrictFacadeREST.class);
         resources.add(benguyen.models.service.HouseFacadeREST.class);
         resources.add(benguyen.models.service.HouseImageFacadeREST.class);
