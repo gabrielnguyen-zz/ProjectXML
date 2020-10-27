@@ -16,7 +16,6 @@ import java.net.URL;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMResult;
 import javax.xml.transform.stream.StreamSource;
-import org.apache.naming.factory.TransactionFactory;
 
 /**
  *

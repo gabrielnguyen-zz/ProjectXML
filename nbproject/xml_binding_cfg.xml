@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='ProjectXML' version='1.0'>
-	<schema type='-xmlschema' package='jaxb.houses' name='Houses'>
+	<schema type='-xmlschema' package='benguyen.jaxb' name='Space'>
 		<xjc-options>
 		</xjc-options>
 		<schema-sources>
-			<schema-source location='src/conf/xml-resources/jaxb/Houses/house.xsd' origLocation='web/house.xsd'/>
+			<schema-source location='src/conf/xml-resources/jaxb/Space/space.xsd' origLocation='src/java/benguyen/resource/xsd/space.xsd'/>
 		</schema-sources>
 		<bindings>
 		</bindings>

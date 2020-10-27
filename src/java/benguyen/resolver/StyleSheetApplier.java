@@ -40,7 +40,7 @@ public class StyleSheetApplier {
         return (ByteArrayOutputStream) resultStream.getOutputStream();
     }
     
-    public ByteArrayOutputStream applyStyleSheet(String styleSheet, String xmlContent) throws TransformerException{
-        return applyStyleSheet(styleSheet, new ByteArrayInputStream(xmlContent.getBytes(StandardCharsets.UTF_8)));
+    public String applyStyleSheet(String styleSheet, String xmlContent) throws TransformerException{
+        return applyStyleSheet(styleSheet, new ByteArrayInputStream(xmlContent.getBytes(StandardCharsets.UTF_8))).toString();
     }
 }

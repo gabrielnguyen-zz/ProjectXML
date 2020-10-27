@@ -39,10 +39,10 @@ import org.xml.sax.SAXParseException;
 public class TestChecker {
 
     public static void main(String[] args) throws IOException {
-        AloNhaTroHousesCrawling test = new AloNhaTroHousesCrawling();
-        test.crawlAloNhaTroHousesLink();
-//          SpaceCrawling test = new SpaceCrawling();
-//          test.crawlSpace();
+//        AloNhaTroHousesCrawling test = new AloNhaTroHousesCrawling();
+//        test.crawlAloNhaTroHousesLink();
+          SpaceCrawling test = new SpaceCrawling();
+          test.crawlSpace();
     }
 
     public static void testWellformed(String urlString) throws MalformedURLException, IOException {

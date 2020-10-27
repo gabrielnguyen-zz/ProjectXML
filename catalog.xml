@@ -2,4 +2,5 @@
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
     <system systemId="file:/C:/Users/Gabriel%20Nguyen/Documents/NetBeansProjects/ProjectXML/house.xsd" uri="src/conf/xml-resources/jaxb/Houses/house.xsd"/>
     <system systemId="file:/C:/Users/Gabriel%20Nguyen/Documents/NetBeansProjects/ProjectXML/web/house.xsd" uri="src/conf/xml-resources/jaxb/Houses/house.xsd"/>
+    <system systemId="file:/C:/Users/Gabriel%20Nguyen/Documents/ProjectXML/src/java/benguyen/resource/xsd/space.xsd" uri="src/conf/xml-resources/jaxb/Space/space.xsd"/>
 </catalog>

@@ -36,7 +36,7 @@ public class AloNhaTroHousesCrawling {
         }
         String wellformed = TextUtils.refineHTML(stringBuilder.toString());
         try {
-            ByteArrayOutputStream xml = applier.applyStyleSheet("src/java/benguyen/resource/xsl/alonhatrolink.xsl", wellformed);
+            String xml = applier.applyStyleSheet("src/java/benguyen/resource/xsl/alonhatrolink.xsl", wellformed);
             System.out.println("Aloha" + xml);
 
         } catch (TransformerException ex) {
